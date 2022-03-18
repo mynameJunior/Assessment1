@@ -1,0 +1,138 @@
+.backgroundhome {
+background-color: rgb(152, 201, 219);
+}
+
+
+.body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+ 
+  .solid {
+    border-style: solid;
+    text-align: center;
+  }
+
+  .assessment1 {
+  font-style: oblique;
+  text-align: center;   
+  }
+
+  .paddingleft {
+      padding-left: 16px;
+  }
+
+  .container {
+      background: lightslategray;
+      width: 70%;
+      max-width: 1000px;
+
+      margin: 0 auto;
+  }
+
+  .idealfbackground {
+      background-color: rgb(152, 201, 219);
+  }
+
+  .bar1 {
+          
+    
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      
+      .topnav {
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+      .topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      
+      .topnav a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+      
+      .topnav a.active {
+        background-color: #04AA6D;
+        color: white;
+      }
+ 
+.idealjob1 {
+    font-style: oblique;
+    text-align: center;
+}
+
+.IJpaddingdleft {
+    padding-left: 16px;
+}
+
+.image1 {
+    text-align: center;
+}
+  
+
+.ppbackground {
+    background-color: rgb(152, 201, 219);
+}
+
+.bar2 {
+    
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      
+      .topnav {
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+      .topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      
+      .topnav a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+      
+      .topnav a.active {
+        background-color: #04AA6D;
+        color: white;
+      }
